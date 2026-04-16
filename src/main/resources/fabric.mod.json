@@ -17,6 +17,7 @@
   "entrypoints": {
   },
   "mixins": [
+    "resource_remover.mixins.json"
   ],
   "depends": {
     "minecraft": [${supported_minecraft_versions}]
